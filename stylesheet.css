@@ -1,0 +1,28 @@
+.navbar{
+    color: #cdbfe3;
+}
+
+.c1{
+    
+    height: 600px;
+    background-image: url("10.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.c2{
+   
+    height: 120px;
+    
+}
+.c3{
+    border: 2px solid black;
+    height: 180px;
+    
+}
+.free h5{
+    color: black;
+}
+.free p{
+    color: black;
+}
+
